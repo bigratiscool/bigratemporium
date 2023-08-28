@@ -5,9 +5,9 @@ big rat's emporium is an unblocked page filled with mostly Flash games, but has 
 ## Features
 - Your favorite Flash Games running on the Ruffle Flash emulator (and AwayFL for AS3 later on)
 
-## Planned Features
 - HTML5 Games, that you may see on other more popular websites.
 
+## Planned Features
 - Youtube Unblocking program to remove the Restricted Mode feature (will not remove 18+ restrictions)
 
 - Hidden Tab Details for easier security
@@ -24,3 +24,4 @@ This repository is licensed under the Apache-2.0 License, see 'LICENSE.md' for m
 ## Resources used
 
  - <a href="https://ruffle.rs" target="_blank" rel="noopener">Ruffle</a> - Flash Emulator for AS2 Games
+ - <a href="https://github.com/CBGamesdev/chilibowlflash" target="_blank" rel="noopener">Chili Bowl Flash</a> - Game resources
