@@ -7,6 +7,8 @@ big rat's emporium is an unblocked page filled with mostly Flash games, but has 
 
 - HTML5 Games, that you may see on other more popular websites.
 
+- FNAF Demo Games. These do not include the full versions, only 2 nights for FNAF 1 and 2, and 3 for FNAF 4. Pizzeria Simulator and UCN will be fully accessable as they are already free.
+
 ## Planned Features
 - Youtube Unblocking program to remove the Restricted Mode feature (will not remove 18+ restrictions)
 
