@@ -5,6 +5,7 @@
     <script>
         var gameInstance = UnityLoader.instantiate("gameContainer", "Build/slope.json", { onProgress: UnityProgress, Module: { onRuntimeInitialized: function() { UnityProgress(gameInstance, "complete") } } });
     </script>
+    <title>Slope Game</title>
 </head>
 <body style="margin: 0; overflow: hidden;">
     <div class="webgl-content">
