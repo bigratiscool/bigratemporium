@@ -48,7 +48,22 @@
         </li>
 
         <button onclick="location.href=('https://github.com/bigratiscool/bigratemporium')" class="btn btn-sm btn-outline-secondary" type="button" ref="https://github.com/bigratiscool/bigratemporium">GitHub Repository</button>
-
+        <div class="form-check form-switch mx-4">
+          <input
+            class="form-check-input p-2"
+            type="checkbox"
+            role="switch"
+            id="flexSwitchCheckChecked"
+            checked
+            onclick="myFunction()"
+          >
+        <script>
+          function myFunction() {
+            var element = document.body;
+            element.dataset.bsTheme = 
+              element.dataset.bsTheme == "light" ? "dark" : "light";              }
+        </script>
+        </div>
           </ul>
         </div>
       </div>
