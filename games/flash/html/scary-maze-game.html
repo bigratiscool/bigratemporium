@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="../../../ruffle.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scary Maze Game</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+</head>
+<body data-bs-theme="dark">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+    <script>
+        window.RufflePlayer.config = {
+            autoplay: "on",
+        };
+        </script>
+    <nav class="navbar navbar-expand-lg bg-primary-subtle">
+      <div class="container-fluid">
+        <a class="navbar-brand">
+      <img src="../../../resources/icon.png" alt="Logo" width="28" height="28" class="d-inline-block align-text-top">
+      big rat's emporium
+    </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="../../../index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="../../../flashgames.html">Flash Games</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="../../../htmlgames.html">HTML5 Games</a>
+            </li>
+        <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        Extras
+        </a>
+        <ul class="dropdown-menu">
+          <li>
+            <a class="dropdown-item" href="../../../dosgames.html">JS-DOS</a> <a class="dropdown-item" href="../../../freddygame.html">FNAF Demos</a>
+          </li>
+        </ul>
+        </li>
+
+        <button onclick="location.href=('https://github.com/bigratiscool/bigratemporium')" class="btn btn-sm btn-outline-secondary" type="button" ref="https://github.com/bigratiscool/bigratemporium">GitHub Repository</button>
+        <div class="form-check form-switch mx-4">
+          <input
+            class="form-check-input p-2"
+            type="checkbox"
+            role="switch"
+            id="flexSwitchCheckChecked"
+            checked
+            onclick="myFunction()"
+          >
+        <script>
+          function myFunction() {
+            var element = document.body;
+            element.dataset.bsTheme = 
+              element.dataset.bsTheme == "light" ? "dark" : "light";              }
+        </script>
+        </div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div style="color:red; padding-top: 5px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; justify-content: center; display: flex;" id="notice">
+        <p1>Notice: Most settings are in the right click menu!</p1>
+    </div>
+    <div style="justify-content: center; display: flex; align-items: center; padding: 10px" id="player"> 
+        <embed style="width: 640px; height: 480px;" src="../src/scary-maze-game.swf">
+    </div>
+
+</body>
+</html>
