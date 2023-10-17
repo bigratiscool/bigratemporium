@@ -27,3 +27,4 @@ This repository is licensed under the Apache-2.0 License, see 'LICENSE.md' for m
 
  - <a href="https://ruffle.rs" target="_blank" rel="noopener">Ruffle</a> - Flash Emulator for AS2 Games
  - <a href="https://github.com/CBGamesdev/chilibowlflash" target="_blank" rel="noopener">Chili Bowl Flash</a> - Game resources
+ - <a href="https://github.com/caiiiycuk/js-dos" target="_blank" rel="noopener"> - JS-DOS for running DOOM in the browser.
