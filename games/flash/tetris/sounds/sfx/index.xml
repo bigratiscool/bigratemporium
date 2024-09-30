@@ -1,0 +1,368 @@
+<ThemeInfo>
+<DefaultId>
+3000
+</DefaultId>
+<Product>
+	<ID>0</ID>
+	<DESC>My Tetris Style</DESC>
+	<SFX><URL>fx_lne01.mp3</URL><NAME>FX_LNE01</NAME></SFX>
+	<SFX><URL>fx_lne02.mp3</URL><NAME>FX_LNE02</NAME></SFX>
+	<SFX><URL>fx_lne03.mp3</URL><NAME>FX_LNE03</NAME></SFX>
+	<SFX><URL>fx_lne04.mp3</URL><NAME>FX_LNE04</NAME></SFX>
+	<SFX><URL>fx_tspin.mp3</URL><NAME>FX_TSPIN</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+</Product>
+<Product>
+	<ID>3</ID>
+	<DESC>Tetris Live</DESC>
+	<SFX><URL>fx_ko.mp3</URL><NAME>FX_KO</NAME></SFX>
+	<SFX><URL>fx_ko_receive.mp3</URL><NAME>FX_KO_RECEIVE</NAME></SFX>
+	<SFX><URL>fx_combo01.mp3</URL><NAME>FX_COMBO01</NAME></SFX>
+	<SFX><URL>fx_combo02.mp3</URL><NAME>FX_COMBO02</NAME></SFX>
+	<SFX><URL>fx_combo03.mp3</URL><NAME>FX_COMBO03</NAME></SFX>
+	<SFX><URL>fx_combo04.mp3</URL><NAME>FX_COMBO04</NAME></SFX>
+	<SFX><URL>fx_combo05.mp3</URL><NAME>FX_COMBO05</NAME></SFX>
+	<SFX><URL>fx_combo06.mp3</URL><NAME>FX_COMBO06</NAME></SFX>
+	<SFX><URL>fx_combo07.mp3</URL><NAME>FX_COMBO07</NAME></SFX>
+	<SFX><URL>fx_fall.mp3</URL><NAME>FX_FALL</NAME></SFX>
+	<SFX><URL>fx_highscore.mp3</URL><NAME>FX_HIGHSCORE</NAME></SFX>
+	<SFX><URL>fx_hold.mp3</URL><NAME>FX_HOLD</NAME></SFX>
+	<SFX><URL>fx_hrddp.mp3</URL><NAME>FX_HRDDP</NAME></SFX>
+	<SFX><URL>fx_lck01.mp3</URL><NAME>FX_LCK01</NAME></SFX>
+	<SFX><URL>fx_level.mp3</URL><NAME>FX_LEVEL</NAME></SFX>
+	<SFX><URL>fx_lnd01.mp3</URL><NAME>FX_LND01</NAME></SFX>
+	<SFX><URL>fx_lne01.mp3</URL><NAME>FX_LNE01</NAME></SFX>
+	<SFX><URL>fx_lne02.mp3</URL><NAME>FX_LNE02</NAME></SFX>
+	<SFX><URL>fx_lne03.mp3</URL><NAME>FX_LNE03</NAME></SFX>
+	<SFX><URL>fx_lne04.mp3</URL><NAME>FX_LNE04</NAME></SFX>
+	<SFX><URL>fx_lose.mp3</URL><NAME>FX_LOSE</NAME></SFX>
+	<SFX><URL>fx_rta01.mp3</URL><NAME>FX_RTA01</NAME></SFX>
+	<SFX><URL>fx_tspin.mp3</URL><NAME>FX_TSPIN</NAME></SFX>
+	<SFX><URL>fx_unhld.mp3</URL><NAME>FX_UNHLD</NAME></SFX>
+	<SFX><URL>fx_unmve.mp3</URL><NAME>FX_UNMVE</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+	<SFX><URL>fx_go.mp3</URL><NAME>FX_GO</NAME></SFX>
+	<SFX><URL>fx_tick.mp3</URL><NAME>FX_TICK</NAME></SFX>
+	<SFX><URL>fx_tick2.mp3</URL><NAME>FX_TICK2</NAME></SFX>
+	<SFX><URL>fx_tick3.mp3</URL><NAME>FX_TICK3</NAME></SFX>
+	<SFX><URL>fx_cascade.mp3</URL><NAME>FX_CASCADE</NAME></SFX>
+	<SFX><URL>fx_spawncascade.mp3</URL><NAME>FX_SPAWNCASCADE</NAME></SFX>
+	<SFX><URL>fx_swapplayfield.mp3</URL><NAME>FX_SWAPPLAYFIELD</NAME></SFX>
+	<SFX><URL>fx_spawnswapplayfield.mp3</URL><NAME>FX_SPAWNSWAPPLAYFIELD</NAME></SFX>
+	<SFX><URL>fx_cloud.mp3</URL><NAME>FX_CLOUD</NAME></SFX>
+	<SFX><URL>fx_spawncloud.mp3</URL><NAME>FX_SPAWNCLOUD</NAME></SFX>
+	<SFX><URL>fx_hide.mp3</URL><NAME>FX_HIDE</NAME></SFX>
+	<SFX><URL>fx_spawnhide.mp3</URL><NAME>FX_SPAWNHIDE</NAME></SFX>
+	<SFX><URL>fx_i_piece.mp3</URL><NAME>FX_I_PIECE</NAME></SFX>
+	<SFX><URL>fx_spawn_i_piece.mp3</URL><NAME>FX_SPAWN_I_PIECE</NAME></SFX>
+	<SFX><URL>fx_increasespeed.mp3</URL><NAME>FX_INCREASESPEED</NAME></SFX>
+	<SFX><URL>fx_spawnincreasespeed.mp3</URL><NAME>FX_SPAWNINCREASESPEED</NAME></SFX>
+	<SFX><URL>fx_pushminos.mp3</URL><NAME>FX_PUSHMINOS</NAME></SFX>
+	<SFX><URL>fx_spawnpushminos.mp3</URL><NAME>FX_SPAWNPUSHMINOS</NAME></SFX>
+	<SFX><URL>fx_removelines.mp3</URL><NAME>FX_REMOVELINES</NAME></SFX>
+	<SFX><URL>fx_spawnremovelines.mp3</URL><NAME>FX_SPAWNREMOVELINES</NAME></SFX>
+	<SFX><URL>fx_reversecontrols.mp3</URL><NAME>FX_REVERSECONTROLS</NAME></SFX>
+	<SFX><URL>fx_spawnreversecontrols.mp3</URL><NAME>FX_SPAWNREVERSECONTROLS</NAME></SFX>
+	<SFX><URL>fx_rotationlock.mp3</URL><NAME>FX_ROTATIONLOCK</NAME></SFX>
+	<SFX><URL>fx_spawnrotationlock.mp3</URL><NAME>FX_SPAWNROTATIONLOCK</NAME></SFX>
+	<SFX><URL>fx_twist.mp3</URL><NAME>FX_TWIST</NAME></SFX>
+	<SFX><URL>fx_spawntwist.mp3</URL><NAME>FX_SPAWNTWIST</NAME></SFX>
+	<SFX><URL>fx_useitem.mp3</URL><NAME>FX_USEITEM</NAME></SFX>
+	<SFX><URL>fx_itemappear.mp3</URL><NAME>FX_ITEMAPPEAR</NAME></SFX>
+	<SFX><URL>fx_itemdisappear.mp3</URL><NAME>FX_ITEMDISAPPEAR</NAME></SFX>
+	<SFX><URL>fx_endmatch.mp3</URL><NAME>FX_ENDMATCH</NAME></SFX>
+</Product>
+
+<Product>
+	<ID>10</ID>
+	<DESC>MARATHON</DESC>
+	<SFX><URL>fx_combo01.mp3</URL><NAME>FX_COMBO01</NAME></SFX>
+	<SFX><URL>fx_combo02.mp3</URL><NAME>FX_COMBO02</NAME></SFX>
+	<SFX><URL>fx_combo03.mp3</URL><NAME>FX_COMBO03</NAME></SFX>
+	<SFX><URL>fx_combo04.mp3</URL><NAME>FX_COMBO04</NAME></SFX>
+	<SFX><URL>fx_combo05.mp3</URL><NAME>FX_COMBO05</NAME></SFX>
+	<SFX><URL>fx_combo06.mp3</URL><NAME>FX_COMBO06</NAME></SFX>
+	<SFX><URL>fx_combo07.mp3</URL><NAME>FX_COMBO07</NAME></SFX>
+	<SFX><URL>fx_fall.mp3</URL><NAME>FX_FALL</NAME></SFX>
+	<SFX><URL>fx_highscore.mp3</URL><NAME>FX_HIGHSCORE</NAME></SFX>
+	<SFX><URL>fx_hold.mp3</URL><NAME>FX_HOLD</NAME></SFX>
+	<SFX><URL>fx_hrddp.mp3</URL><NAME>FX_HRDDP</NAME></SFX>
+	<SFX><URL>fx_lck01.mp3</URL><NAME>FX_LCK01</NAME></SFX>
+	<SFX><URL>fx_level.mp3</URL><NAME>FX_LEVEL</NAME></SFX>
+	<SFX><URL>fx_lnd01.mp3</URL><NAME>FX_LND01</NAME></SFX>
+	<SFX><URL>fx_lne01.mp3</URL><NAME>FX_LNE01</NAME></SFX>
+	<SFX><URL>fx_lne02.mp3</URL><NAME>FX_LNE02</NAME></SFX>
+	<SFX><URL>fx_lne03.mp3</URL><NAME>FX_LNE03</NAME></SFX>
+	<SFX><URL>fx_lne04.mp3</URL><NAME>FX_LNE04</NAME></SFX>
+	<SFX><URL>fx_lose.mp3</URL><NAME>FX_LOSE</NAME></SFX>
+	<SFX><URL>fx_rta01.mp3</URL><NAME>FX_RTA01</NAME></SFX>
+	<SFX><URL>fx_tspin.mp3</URL><NAME>FX_TSPIN</NAME></SFX>
+	<SFX><URL>fx_unhld.mp3</URL><NAME>FX_UNHLD</NAME></SFX>
+	<SFX><URL>fx_unmve.mp3</URL><NAME>FX_UNMVE</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+	<SFX><URL>fx_go.mp3</URL><NAME>FX_GO</NAME></SFX>
+	<SFX><URL>fx_tick.mp3</URL><NAME>FX_TICK</NAME></SFX>
+	<SFX><URL>fx_tick2.mp3</URL><NAME>FX_TICK2</NAME></SFX>
+	<SFX><URL>fx_tick3.mp3</URL><NAME>FX_TICK3</NAME></SFX>
+</Product>
+<Product>
+	<ID>23</ID>
+	<DESC>ULTRA</DESC>
+	<SFX><URL>fx_05tic.mp3</URL><NAME>FX_05TIC</NAME></SFX>
+	<SFX><URL>fx_04tic.mp3</URL><NAME>FX_04TIC</NAME></SFX>
+	<SFX><URL>fx_03tic.mp3</URL><NAME>FX_03TIC</NAME></SFX>
+	<SFX><URL>fx_02tic.mp3</URL><NAME>FX_02TIC</NAME></SFX>
+	<SFX><URL>fx_01tic.mp3</URL><NAME>FX_01TIC</NAME></SFX>
+	<SFX><URL>fx_combo01.mp3</URL><NAME>FX_COMBO01</NAME></SFX>
+	<SFX><URL>fx_combo02.mp3</URL><NAME>FX_COMBO02</NAME></SFX>
+	<SFX><URL>fx_combo03.mp3</URL><NAME>FX_COMBO03</NAME></SFX>
+	<SFX><URL>fx_combo04.mp3</URL><NAME>FX_COMBO04</NAME></SFX>
+	<SFX><URL>fx_combo05.mp3</URL><NAME>FX_COMBO05</NAME></SFX>
+	<SFX><URL>fx_combo06.mp3</URL><NAME>FX_COMBO06</NAME></SFX>
+	<SFX><URL>fx_combo07.mp3</URL><NAME>FX_COMBO07</NAME></SFX>
+	<SFX><URL>fx_fall.mp3</URL><NAME>FX_FALL</NAME></SFX>
+	<SFX><URL>fx_finallap.mp3</URL><NAME>FX_FINALLAP</NAME></SFX>
+	<SFX><URL>fx_highscore.mp3</URL><NAME>FX_HIGHSCORE</NAME></SFX>
+	<SFX><URL>fx_hold.mp3</URL><NAME>FX_HOLD</NAME></SFX>
+	<SFX><URL>fx_hrddp.mp3</URL><NAME>FX_HRDDP</NAME></SFX>
+	<SFX><URL>fx_lck01.mp3</URL><NAME>FX_LCK01</NAME></SFX>
+	<SFX><URL>fx_level.mp3</URL><NAME>FX_LEVEL</NAME></SFX>
+	<SFX><URL>fx_lnd01.mp3</URL><NAME>FX_LND01</NAME></SFX>
+	<SFX><URL>fx_lne01.mp3</URL><NAME>FX_LNE01</NAME></SFX>
+	<SFX><URL>fx_lne02.mp3</URL><NAME>FX_LNE02</NAME></SFX>
+	<SFX><URL>fx_lne03.mp3</URL><NAME>FX_LNE03</NAME></SFX>
+	<SFX><URL>fx_lne04.mp3</URL><NAME>FX_LNE04</NAME></SFX>
+	<SFX><URL>fx_lose.mp3</URL><NAME>FX_LOSE</NAME></SFX>
+	<SFX><URL>fx_rta01.mp3</URL><NAME>FX_RTA01</NAME></SFX>
+	<SFX><URL>fx_tspin.mp3</URL><NAME>FX_TSPIN</NAME></SFX>
+	<SFX><URL>fx_unhld.mp3</URL><NAME>FX_UNHLD</NAME></SFX>
+	<SFX><URL>fx_unmve.mp3</URL><NAME>FX_UNMVE</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+	<SFX><URL>fx_tick.mp3</URL><NAME>FX_TICK</NAME></SFX>
+	<SFX><URL>fx_tick2.mp3</URL><NAME>FX_TICK2</NAME></SFX>
+	<SFX><URL>fx_tick3.mp3</URL><NAME>FX_TICK3</NAME></SFX>
+	<SFX><URL>fx_go.mp3</URL><NAME>FX_GO</NAME></SFX>
+
+
+</Product>
+<Product>
+	<ID>12</ID>
+	<DESC>SURVIVAL</DESC>
+	<SFX><URL>fx_bonuslevel.mp3</URL><NAME>FX_BONUSLEVEL</NAME></SFX>
+	<SFX><URL>fx_combo01.mp3</URL><NAME>FX_COMBO01</NAME></SFX>
+	<SFX><URL>fx_combo02.mp3</URL><NAME>FX_COMBO02</NAME></SFX>
+	<SFX><URL>fx_combo03.mp3</URL><NAME>FX_COMBO03</NAME></SFX>
+	<SFX><URL>fx_combo04.mp3</URL><NAME>FX_COMBO04</NAME></SFX>
+	<SFX><URL>fx_combo05.mp3</URL><NAME>FX_COMBO05</NAME></SFX>
+	<SFX><URL>fx_combo06.mp3</URL><NAME>FX_COMBO06</NAME></SFX>
+	<SFX><URL>fx_combo07.mp3</URL><NAME>FX_COMBO07</NAME></SFX>
+	<SFX><URL>fx_fall.mp3</URL><NAME>FX_FALL</NAME></SFX>
+	<SFX><URL>fx_finallap.mp3</URL><NAME>FX_FINALLAP</NAME></SFX>
+	<SFX><URL>fx_highscore.mp3</URL><NAME>FX_HIGHSCORE</NAME></SFX>
+	<SFX><URL>fx_hold.mp3</URL><NAME>FX_HOLD</NAME></SFX>
+	<SFX><URL>fx_hrddp.mp3</URL><NAME>FX_HRDDP</NAME></SFX>
+	<SFX><URL>fx_lck01.mp3</URL><NAME>FX_LCK01</NAME></SFX>
+	<SFX><URL>fx_level.mp3</URL><NAME>FX_LEVEL</NAME></SFX>
+	<SFX><URL>fx_lnd01.mp3</URL><NAME>FX_LND01</NAME></SFX>
+	<SFX><URL>fx_lne01.mp3</URL><NAME>FX_LNE01</NAME></SFX>
+	<SFX><URL>fx_lne02.mp3</URL><NAME>FX_LNE02</NAME></SFX>
+	<SFX><URL>fx_lne03.mp3</URL><NAME>FX_LNE03</NAME></SFX>
+	<SFX><URL>fx_lne04.mp3</URL><NAME>FX_LNE04</NAME></SFX>
+	<SFX><URL>fx_lose.mp3</URL><NAME>FX_LOSE</NAME></SFX>
+	<SFX><URL>fx_rta01.mp3</URL><NAME>FX_RTA01</NAME></SFX>
+	<SFX><URL>fx_tspin.mp3</URL><NAME>FX_TSPIN</NAME></SFX>
+	<SFX><URL>fx_unhld.mp3</URL><NAME>FX_UNHLD</NAME></SFX>
+	<SFX><URL>fx_unmve.mp3</URL><NAME>FX_UNMVE</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+	<SFX><URL>fx_tick.mp3</URL><NAME>FX_TICK</NAME></SFX>
+	<SFX><URL>fx_tick2.mp3</URL><NAME>FX_TICK2</NAME></SFX>
+	<SFX><URL>fx_tick3.mp3</URL><NAME>FX_TICK3</NAME></SFX>
+	<SFX><URL>fx_go.mp3</URL><NAME>FX_GO</NAME></SFX>
+
+	
+
+</Product>
+<Product>
+	<ID>84</ID>
+	<DESC>SPRINT</DESC>
+	<SFX><URL>fx_combo01.mp3</URL><NAME>FX_COMBO01</NAME></SFX>
+	<SFX><URL>fx_combo02.mp3</URL><NAME>FX_COMBO02</NAME></SFX>
+	<SFX><URL>fx_combo03.mp3</URL><NAME>FX_COMBO03</NAME></SFX>
+	<SFX><URL>fx_combo04.mp3</URL><NAME>FX_COMBO04</NAME></SFX>
+	<SFX><URL>fx_combo05.mp3</URL><NAME>FX_COMBO05</NAME></SFX>
+	<SFX><URL>fx_combo06.mp3</URL><NAME>FX_COMBO06</NAME></SFX>
+	<SFX><URL>fx_combo07.mp3</URL><NAME>FX_COMBO07</NAME></SFX>
+	<SFX><URL>fx_fall.mp3</URL><NAME>FX_FALL</NAME></SFX>
+	<SFX><URL>fx_finallap.mp3</URL><NAME>FX_FINALLAP</NAME></SFX>
+	<SFX><URL>fx_highscore.mp3</URL><NAME>FX_HIGHSCORE</NAME></SFX>
+	<SFX><URL>fx_hold.mp3</URL><NAME>FX_HOLD</NAME></SFX>
+	<SFX><URL>fx_hrddp.mp3</URL><NAME>FX_HRDDP</NAME></SFX>
+	<SFX><URL>fx_lnd01.mp3</URL><NAME>FX_LND01</NAME></SFX>
+	<SFX><URL>fx_lne01.mp3</URL><NAME>FX_LNE01</NAME></SFX>
+	<SFX><URL>fx_lne02.mp3</URL><NAME>FX_LNE02</NAME></SFX>
+	<SFX><URL>fx_lne03.mp3</URL><NAME>FX_LNE03</NAME></SFX>
+	<SFX><URL>fx_lne04.mp3</URL><NAME>FX_LNE04</NAME></SFX>
+	<SFX><URL>fx_lose.mp3</URL><NAME>FX_LOSE</NAME></SFX>
+	<SFX><URL>fx_rta01.mp3</URL><NAME>FX_RTA01</NAME></SFX>
+	<SFX><URL>fx_unhld.mp3</URL><NAME>FX_UNHLD</NAME></SFX>
+	<SFX><URL>fx_unmve.mp3</URL><NAME>FX_UNMVE</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+	<SFX><URL>fx_go.mp3</URL><NAME>FX_GO</NAME></SFX>
+	<SFX><URL>fx_tick.mp3</URL><NAME>FX_TICK</NAME></SFX>
+	<SFX><URL>fx_tick2.mp3</URL><NAME>FX_TICK2</NAME></SFX>
+	<SFX><URL>fx_tick3.mp3</URL><NAME>FX_TICK3</NAME></SFX>
+	<SFX><URL>fx_tspin.mp3</URL><NAME>FX_TSPIN</NAME></SFX>
+	<SFX><URL>fx_lck01.mp3</URL><NAME>FX_LCK01</NAME></SFX>
+
+
+</Product>
+<Product>
+	<ID>86</ID>
+	<DESC>BATTLE6P</DESC>
+	<SFX><URL>fx_combo01.mp3</URL><NAME>FX_COMBO01</NAME></SFX>
+	<SFX><URL>fx_combo02.mp3</URL><NAME>FX_COMBO02</NAME></SFX>
+	<SFX><URL>fx_combo03.mp3</URL><NAME>FX_COMBO03</NAME></SFX>
+	<SFX><URL>fx_combo04.mp3</URL><NAME>FX_COMBO04</NAME></SFX>
+	<SFX><URL>fx_combo05.mp3</URL><NAME>FX_COMBO05</NAME></SFX>
+	<SFX><URL>fx_combo06.mp3</URL><NAME>FX_COMBO06</NAME></SFX>
+	<SFX><URL>fx_combo07.mp3</URL><NAME>FX_COMBO07</NAME></SFX>
+	<SFX><URL>fx_fall.mp3</URL><NAME>FX_FALL</NAME></SFX>
+	<SFX><URL>fx_finallap.mp3</URL><NAME>FX_FINALLAP</NAME></SFX>
+	<SFX><URL>fx_hold.mp3</URL><NAME>FX_HOLD</NAME></SFX>
+	<SFX><URL>fx_hrddp.mp3</URL><NAME>FX_HRDDP</NAME></SFX>
+	<SFX><URL>fx_ko.mp3</URL><NAME>FX_KO</NAME></SFX>
+	<SFX><URL>fx_ko_receive.mp3</URL><NAME>FX_KO_RECEIVE</NAME></SFX>
+	<SFX><URL>fx_lck01.mp3</URL><NAME>FX_LCK01</NAME></SFX>
+	<SFX><URL>fx_leveldown.mp3</URL><NAME>FX_LEVELDOWN</NAME></SFX>
+	<SFX><URL>fx_levelup.mp3</URL><NAME>FX_LEVELUP</NAME></SFX>
+	<SFX><URL>fx_lnd01.mp3</URL><NAME>FX_LND01</NAME></SFX>
+	<SFX><URL>fx_lne01.mp3</URL><NAME>FX_LNE01</NAME></SFX>
+	<SFX><URL>fx_lne02.mp3</URL><NAME>FX_LNE02</NAME></SFX>
+	<SFX><URL>fx_lne03.mp3</URL><NAME>FX_LNE03</NAME></SFX>
+	<SFX><URL>fx_lne04.mp3</URL><NAME>FX_LNE04</NAME></SFX>
+	<SFX><URL>fx_lose.mp3</URL><NAME>FX_LOSE</NAME></SFX>
+	<SFX><URL>fx_rta01.mp3</URL><NAME>FX_RTA01</NAME></SFX>
+	<SFX><URL>fx_stardown.mp3</URL><NAME>FX_STARDOWN</NAME></SFX>
+	<SFX><URL>fx_starup.mp3</URL><NAME>FX_STARUP</NAME></SFX>
+	<SFX><URL>fx_timeup.mp3</URL><NAME>FX_TIMEUP</NAME></SFX>
+	<SFX><URL>fx_tspin.mp3</URL><NAME>FX_TSPIN</NAME></SFX>
+	<SFX><URL>fx_unhld.mp3</URL><NAME>FX_UNHLD</NAME></SFX>
+	<SFX><URL>fx_unmve.mp3</URL><NAME>FX_UNMVE</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+	<SFX><URL>fx_go.mp3</URL><NAME>FX_GO</NAME></SFX>
+	<SFX><URL>fx_tick.mp3</URL><NAME>FX_TICK</NAME></SFX>
+	<SFX><URL>fx_tick2.mp3</URL><NAME>FX_TICK2</NAME></SFX>
+	<SFX><URL>fx_tick3.mp3</URL><NAME>FX_TICK3</NAME></SFX>
+
+
+	
+</Product>
+<Product>
+	<ID>2</ID>
+	<DESC>BATTLE2P with Maps</DESC>
+	<SFX><URL>fx_combo01.mp3</URL><NAME>FX_COMBO01</NAME></SFX>
+	<SFX><URL>fx_combo02.mp3</URL><NAME>FX_COMBO02</NAME></SFX>
+	<SFX><URL>fx_combo03.mp3</URL><NAME>FX_COMBO03</NAME></SFX>
+	<SFX><URL>fx_combo04.mp3</URL><NAME>FX_COMBO04</NAME></SFX>
+	<SFX><URL>fx_combo05.mp3</URL><NAME>FX_COMBO05</NAME></SFX>
+	<SFX><URL>fx_combo06.mp3</URL><NAME>FX_COMBO06</NAME></SFX>
+	<SFX><URL>fx_combo07.mp3</URL><NAME>FX_COMBO07</NAME></SFX>
+	<SFX><URL>fx_fall.mp3</URL><NAME>FX_FALL</NAME></SFX>
+	<SFX><URL>fx_finallap.mp3</URL><NAME>FX_FINALLAP</NAME></SFX>
+	<SFX><URL>fx_hold.mp3</URL><NAME>FX_HOLD</NAME></SFX>
+	<SFX><URL>fx_hrddp.mp3</URL><NAME>FX_HRDDP</NAME></SFX>
+	<SFX><URL>fx_ko.mp3</URL><NAME>FX_KO</NAME></SFX>
+	<SFX><URL>fx_ko_receive.mp3</URL><NAME>FX_KO_RECEIVE</NAME></SFX>
+	<SFX><URL>fx_lck01.mp3</URL><NAME>FX_LCK01</NAME></SFX>
+	<SFX><URL>fx_lnd01.mp3</URL><NAME>FX_LND01</NAME></SFX>
+	<SFX><URL>fx_lne01.mp3</URL><NAME>FX_LNE01</NAME></SFX>
+	<SFX><URL>fx_lne02.mp3</URL><NAME>FX_LNE02</NAME></SFX>
+	<SFX><URL>fx_lne03.mp3</URL><NAME>FX_LNE03</NAME></SFX>
+	<SFX><URL>fx_lne04.mp3</URL><NAME>FX_LNE04</NAME></SFX>
+	<SFX><URL>fx_lose.mp3</URL><NAME>FX_LOSE</NAME></SFX>
+	<SFX><URL>fx_rta01.mp3</URL><NAME>FX_RTA01</NAME></SFX>
+	<SFX><URL>fx_stardown.mp3</URL><NAME>FX_STARDOWN</NAME></SFX>
+	<SFX><URL>fx_starup.mp3</URL><NAME>FX_STARUP</NAME></SFX>
+	<SFX><URL>fx_timeup.mp3</URL><NAME>FX_TIMEUP</NAME></SFX>
+	<SFX><URL>fx_tspin.mp3</URL><NAME>FX_TSPIN</NAME></SFX>
+	<SFX><URL>fx_unhld.mp3</URL><NAME>FX_UNHLD</NAME></SFX>
+	<SFX><URL>fx_unmve.mp3</URL><NAME>FX_UNMVE</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+	<SFX><URL>fx_go.mp3</URL><NAME>FX_GO</NAME></SFX>
+	<SFX><URL>fx_tick.mp3</URL><NAME>FX_TICK</NAME></SFX>
+	<SFX><URL>fx_tick2.mp3</URL><NAME>FX_TICK2</NAME></SFX>
+	<SFX><URL>fx_tick3.mp3</URL><NAME>FX_TICK3</NAME></SFX>	
+</Product>
+
+
+<Product>
+	<ID>100</ID>
+	<DESC>BATTLE2P</DESC>
+	<SFX><URL>fx_combo01.mp3</URL><NAME>FX_COMBO01</NAME></SFX>
+	<SFX><URL>fx_combo02.mp3</URL><NAME>FX_COMBO02</NAME></SFX>
+	<SFX><URL>fx_combo03.mp3</URL><NAME>FX_COMBO03</NAME></SFX>
+	<SFX><URL>fx_combo04.mp3</URL><NAME>FX_COMBO04</NAME></SFX>
+	<SFX><URL>fx_combo05.mp3</URL><NAME>FX_COMBO05</NAME></SFX>
+	<SFX><URL>fx_combo06.mp3</URL><NAME>FX_COMBO06</NAME></SFX>
+	<SFX><URL>fx_combo07.mp3</URL><NAME>FX_COMBO07</NAME></SFX>
+	<SFX><URL>fx_fall.mp3</URL><NAME>FX_FALL</NAME></SFX>
+	<SFX><URL>fx_finallap.mp3</URL><NAME>FX_FINALLAP</NAME></SFX>
+	<SFX><URL>fx_hold.mp3</URL><NAME>FX_HOLD</NAME></SFX>
+	<SFX><URL>fx_hrddp.mp3</URL><NAME>FX_HRDDP</NAME></SFX>
+	<SFX><URL>fx_ko.mp3</URL><NAME>FX_KO</NAME></SFX>
+	<SFX><URL>fx_ko_receive.mp3</URL><NAME>FX_KO_RECEIVE</NAME></SFX>
+	<SFX><URL>fx_lck01.mp3</URL><NAME>FX_LCK01</NAME></SFX>
+	<SFX><URL>fx_lnd01.mp3</URL><NAME>FX_LND01</NAME></SFX>
+	<SFX><URL>fx_lne01.mp3</URL><NAME>FX_LNE01</NAME></SFX>
+	<SFX><URL>fx_lne02.mp3</URL><NAME>FX_LNE02</NAME></SFX>
+	<SFX><URL>fx_lne03.mp3</URL><NAME>FX_LNE03</NAME></SFX>
+	<SFX><URL>fx_lne04.mp3</URL><NAME>FX_LNE04</NAME></SFX>
+	<SFX><URL>fx_lose.mp3</URL><NAME>FX_LOSE</NAME></SFX>
+	<SFX><URL>fx_rta01.mp3</URL><NAME>FX_RTA01</NAME></SFX>
+	<SFX><URL>fx_stardown.mp3</URL><NAME>FX_STARDOWN</NAME></SFX>
+	<SFX><URL>fx_starup.mp3</URL><NAME>FX_STARUP</NAME></SFX>
+	<SFX><URL>fx_timeup.mp3</URL><NAME>FX_TIMEUP</NAME></SFX>
+	<SFX><URL>fx_tspin.mp3</URL><NAME>FX_TSPIN</NAME></SFX>
+	<SFX><URL>fx_unhld.mp3</URL><NAME>FX_UNHLD</NAME></SFX>
+	<SFX><URL>fx_unmve.mp3</URL><NAME>FX_UNMVE</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+	<SFX><URL>fx_go.mp3</URL><NAME>FX_GO</NAME></SFX>
+	<SFX><URL>fx_tick.mp3</URL><NAME>FX_TICK</NAME></SFX>
+	<SFX><URL>fx_tick2.mp3</URL><NAME>FX_TICK2</NAME></SFX>
+	<SFX><URL>fx_tick3.mp3</URL><NAME>FX_TICK3</NAME></SFX>	
+</Product>
+<Product>
+	<ID>101</ID>
+	<DESC>SPRINT5P</DESC>
+	<SFX><URL>fx_combo01.mp3</URL><NAME>FX_COMBO01</NAME></SFX>
+	<SFX><URL>fx_combo02.mp3</URL><NAME>FX_COMBO02</NAME></SFX>
+	<SFX><URL>fx_combo03.mp3</URL><NAME>FX_COMBO03</NAME></SFX>
+	<SFX><URL>fx_combo04.mp3</URL><NAME>FX_COMBO04</NAME></SFX>
+	<SFX><URL>fx_combo05.mp3</URL><NAME>FX_COMBO05</NAME></SFX>
+	<SFX><URL>fx_combo06.mp3</URL><NAME>FX_COMBO06</NAME></SFX>
+	<SFX><URL>fx_combo07.mp3</URL><NAME>FX_COMBO07</NAME></SFX>
+	<SFX><URL>fx_fall.mp3</URL><NAME>FX_FALL</NAME></SFX>
+	<SFX><URL>fx_finallap.mp3</URL><NAME>FX_FINALLAP</NAME></SFX>
+	<SFX><URL>fx_highscore.mp3</URL><NAME>FX_HIGHSCORE</NAME></SFX>
+	<SFX><URL>fx_hold.mp3</URL><NAME>FX_HOLD</NAME></SFX>
+	<SFX><URL>fx_hrddp.mp3</URL><NAME>FX_HRDDP</NAME></SFX>
+	<SFX><URL>fx_lnd01.mp3</URL><NAME>FX_LND01</NAME></SFX>
+	<SFX><URL>fx_lne01.mp3</URL><NAME>FX_LNE01</NAME></SFX>
+	<SFX><URL>fx_lne02.mp3</URL><NAME>FX_LNE02</NAME></SFX>
+	<SFX><URL>fx_lne03.mp3</URL><NAME>FX_LNE03</NAME></SFX>
+	<SFX><URL>fx_lne04.mp3</URL><NAME>FX_LNE04</NAME></SFX>
+	<SFX><URL>fx_lose.mp3</URL><NAME>FX_LOSE</NAME></SFX>
+	<SFX><URL>fx_rta01.mp3</URL><NAME>FX_RTA01</NAME></SFX>
+	<SFX><URL>fx_unhld.mp3</URL><NAME>FX_UNHLD</NAME></SFX>
+	<SFX><URL>fx_unmve.mp3</URL><NAME>FX_UNMVE</NAME></SFX>
+	<SFX><URL>fx_win.mp3</URL><NAME>FX_WIN</NAME></SFX>
+	<SFX><URL>fx_go.mp3</URL><NAME>FX_GO</NAME></SFX>
+	<SFX><URL>fx_tick.mp3</URL><NAME>FX_TICK</NAME></SFX>
+	<SFX><URL>fx_tick2.mp3</URL><NAME>FX_TICK2</NAME></SFX>
+	<SFX><URL>fx_tick3.mp3</URL><NAME>FX_TICK3</NAME></SFX>
+	<SFX><URL>fx_lck01.mp3</URL><NAME>FX_LCK01</NAME></SFX>
+	<SFX><URL>fx_tspin.mp3</URL><NAME>FX_TSPIN</NAME></SFX>
+	
+</Product>
+</ThemeInfo>

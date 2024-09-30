@@ -1,0 +1,32 @@
+Name,Amount,Goal
+Your all-time best!,50,0,all
+First play of the Day,10,0,all
+Good Game!,5,200, Mono
+Good Game!,5,0,"sprint, ultra"
+Good Game!,5,5000,"Marathon, Survival"
+Complete Marathon,40,15,marathon
+Survive 20 Levels,40,20,Survival
+Ranked 1st Place,5,0,"sprint5, Battle6P"
+Ranked 2nd Place,0,0,"sprint5, Battle6P"
+Ranked 3rd Place,0,0,"sprint5, Battle6P"
+Ranked 4th Place,0,0,"sprint5, Battle6P"
+Won a Match,0,0,battle
+Great Score,40,200000,mono
+Good Game!,5,1000,NBlox
+Great Score,40,400000,NBlox
+Played a Full Game,5,40,"sprint5p"
+Played a Full Game,5,0,"battle, Battle6P"
+Good Game!,5,10,"AcornDrop"
+Stashed over 1500 Acorns,40,1500,"AcornDrop"
+Stashed over 1000 Acorns,20,1000,"AcornDrop"
+Stashed over 500 Acorns,10,500,"AcornDrop"
+Completed the Race,5,0,Rally,
+Ranked 1st Place,10,0,Rally,
+Ranked 2nd Place,0,0,Rally,
+Ranked 3rd Place,0,0,Rally,
+Lasted over 60 seconds,5,60,Arena,
+Earned a KO,5,1,Arena,
+Earned 4 or more KO's,10,4,Arena,
+Won by KO,5,0,battle,
+Won by 3 KO,10,0,battle,
+Nothing,0,0,None,
